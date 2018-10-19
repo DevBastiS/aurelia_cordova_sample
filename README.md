@@ -1,1 +1,1 @@
-# aurelia_codova_sample
+# aurelia_cordova_sample
