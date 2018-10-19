@@ -1,4 +1,4 @@
-# aurelia_codova_sample
+# aurelia_cordova_sample
 
 This serves as a sample on how to get an aurelia app running in cordova.
 
